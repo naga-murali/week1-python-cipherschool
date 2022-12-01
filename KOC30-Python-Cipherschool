@@ -1,4 +1,4 @@
-[12/1, 11:53 PM] +91 73967 73878: name="Murali"
+name="Murali"
 print(name)
 number1=6
 print(number1)
